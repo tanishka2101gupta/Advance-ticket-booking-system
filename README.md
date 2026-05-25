@@ -23,4 +23,4 @@ This project demonstrates:
 - Waiting queue support
 
 ## Author
-Vasudev
+Tanishka
